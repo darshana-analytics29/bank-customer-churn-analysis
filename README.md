@@ -78,7 +78,6 @@ The findings provide a starting point for targeted customer retention strategies
 - [Cleaned Dataset](Dataset/)
 - [Excel Exploratory Data Analysis (EDA)](Excel/Bank_Customer_Churn_EDA.xlsx)
 - [PostgreSQL SQL Analysis](SQL/)
-- [Power BI Interactive Dashboard (.pbix)](PowerBi/Bank_Customer_Churn_Dashboard.pbix)
 - [Power BI Dashboard Screenshots](PowerBi/)
 - [Final Project Report (PDF)](Report/)
 
