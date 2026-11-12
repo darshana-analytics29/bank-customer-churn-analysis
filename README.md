@@ -78,5 +78,7 @@ The findings provide a starting point for targeted customer retention strategies
 - Power BI dashboard
 - Dashboard screenshots
 - Detailed project report
+- [Excel Exploratory Data Analysis](Excel/Bank_Customer_Churn_EDA.xlsx)
+  
 
 **Project Type:** Data Analytics | Descriptive and Diagnostic Analysis
