@@ -72,13 +72,17 @@ The analysis highlights that customer churn is not evenly distributed across the
 The findings provide a starting point for targeted customer retention strategies and demonstrate an end-to-end data analytics workflow using Excel, SQL, Power Query and Power BI.
 
 ## Project Deliverables
-- Cleaned dataset
-- Excel analysis
-- PostgreSQL SQL queries
-- Power BI dashboard
-- Dashboard screenshots
-- Detailed project report
-- [Excel Exploratory Data Analysis](Excel/Bank_Customer_Churn_EDA.xlsx)
+
+## Project Deliverables
+
+- [Cleaned Dataset](Dataset/)
+- [Excel Exploratory Data Analysis (EDA)](Excel/Bank_Customer_Churn_EDA.xlsx)
+- [PostgreSQL SQL Analysis](SQL/)
+- [Power BI Interactive Dashboard (.pbix)](PowerBi/Bank_Customer_Churn_Dashboard.pbix)
+- [Power BI Dashboard Screenshots](PowerBi/)
+- [Final Project Report (PDF)](Report/)
+
+**Project Type:** Data Analytics | Descriptive and Diagnostic Analysis
   
 
 **Project Type:** Data Analytics | Descriptive and Diagnostic Analysis
