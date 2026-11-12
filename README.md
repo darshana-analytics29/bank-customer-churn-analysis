@@ -43,16 +43,15 @@ Customer churn can reduce a bank's revenue and increase customer acquisition cos
 ## Power BI Dashboard
 The project contains two dashboard pages:
 
-**Page 1 – Bank Customer Churn Overview**
-- Total customers, churned customers, retained customers and churn rate.
-- Churn analysis by geography, age, gender and membership activity.
-- Interactive geography and gender filters.
 
-**Page 2 – High-Risk Customer Segments**
-- Geography and membership analysis.
-- Age group and membership analysis.
-- Product count and membership analysis.
-- Identification of customer segments requiring retention attention.
+### Dashboard 1: Bank Customer Churn Overview
+
+![Bank Customer Churn Overview](PowerBi/Churn%20Overview.png)
+
+### Dashboard 2: High-Risk Customer Segments
+
+![High-Risk Customer Segments](PowerBi/High%20Risk%20Customer%20Segments.png)
+  
 
 ## Business Recommendations
 - Prioritize re-engagement strategies for inactive customers.
